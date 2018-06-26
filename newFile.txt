@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 sdsadasdasdasda
 ahsdashjdgjas
+=======
+>>>>>>> parent of 9fd7fde... changed
