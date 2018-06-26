@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-sdsadasdasdasda
-ahsdashjdgjas
-=======
->>>>>>> parent of 9fd7fde... changed
-=======
->>>>>>> parent of 9fd7fde... changed
+Nguyen Anh Hoang
